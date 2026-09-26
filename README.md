@@ -1,5 +1,5 @@
 # **Data Jobs Dashboard W/ Power Bi**
-![Power BI Dashboard Overview](./images/Data%20jobs%20Dashboard.gif)
+![Power BI Dashboard Overview](./Images/Data%20jobs%20Dashboard.gif))
 
 
 
