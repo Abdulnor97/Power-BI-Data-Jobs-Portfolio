@@ -16,7 +16,6 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 
 ![Data Jobs Dashboard V1](./Images/Data%20jobs%20Dashboard.gif)
 
-* 🔗 **Folder Link:** [View V1 Project Files](./Data%20jobs%20V1)
 * 🌐 **Interactive Report:** [View Interactive Dashboard on Power BI Service](https://lukeb.co/powerbi-project1)
 
 **Key Power BI Skills Utilized:**
