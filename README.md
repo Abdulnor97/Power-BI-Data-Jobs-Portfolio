@@ -16,7 +16,6 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 
 ![Data Jobs Dashboard V1](./Images/Data%20jobs%20Dashboard.gif)
 
-* 🔗 **Folder Link:** [View V1 Project Files](./Data%20jobs%20V1)
 * 🌐 **Interactive Report:** [View Interactive Dashboard on Power BI Service](https://lukeb.co/powerbi-project1)
 
 **Key Power BI Skills Utilized:**
@@ -31,3 +30,30 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 * ⚪ Buttons & Bookmarks for Page Navigation
 * ➡ Drill-Through Functionality
 [➡️ **View Full Project 1 Details**](./Data%20jobs%20V1/README.md)
+
+### 🟢 Data Jobs Dashboard (V2 - Single-Page Focus)
+
+![Data Jobs Dashboard V2](./Data%20jobs%20V2/images/Data%20jobs%20Dashboard%20v2.png)
+ [🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project2)
+
+**Key Power BI Skills Utilized:**
+* 🎨 Executive Dark Theme Layout & UX Optimization
+* ⚙️ Advanced Power Query (ETL, Data Cleaning & Shaping)
+* 🔗 Dynamic Data Modeling (Star Schema & Relationships)
+* 🧮 Explicit DAX Measures (`CALCULATE`, `ALLSELECTED`, `DIVIDE`)
+* 🎚️ Dynamic Field Parameters (Metric Switching: Yearly vs. Hourly Salary)
+* 📊 Interactive Skill Penetration Analysis (% Penetration vs. Job Count)
+* 🗺️ Geospatial Mapping for Regional Job Density
+* 🔢 Dynamic KPI Cards & High-Density Visual Analytics
+* ⚪ Navigation Bookmarks & Custom Visual Slicers
+* ➡ Advanced Drill-Through & Interactive Filtering
+
+[➡️ **View Full Project 2 Details**](./Data%20jobs%20V2/README.md)
+
+
+## **About This Portfolio**
+This portfolio tracks my journey in Power BI, turning raw 2024 global job market data into clear career insights across two dashboard iterations:
+
+Version 1.0 (Exploratory): A multi-page light theme report designed for deep-dive exploration into job roles, skill popularity, and global compensation trends.
+
+Version 2.0 (Executive): A dynamic single-page dark theme control center. Using DAX field parameters, users can interactively toggle between yearly vs. hourly pay and skill counts vs. penetration rates (%) in real time
