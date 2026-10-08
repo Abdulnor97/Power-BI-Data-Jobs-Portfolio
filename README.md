@@ -14,7 +14,7 @@ Explore the dashboards below. Each version has its own dedicated folder, build p
 
 The first iteration of the Data Jobs Analysis project focuses on a comprehensive multi-page exploration of the 2024 global data job market.
 
-![Data Jobs Dashboard V1](./Data%20jobs%20V1/Images/Data%20Jobs%20Dashboard_1.png)
+![Data Jobs Dashboard V1](./Project%201/Images/Data%20jobs%20Dashboard.gif)
 
 * 🌐 **Interactive Report:** [View Interactive Dashboard on Power BI Service](https://lukeb.co/powerbi-project1)
 
@@ -33,7 +33,7 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 
 ### 🟢 Data Jobs Dashboard (V2 - Single-Page Focus)
 
-![Data Jobs Dashboard V2](./Data%20jobs%20V2/images/Data%20jobs%20Dashboard%20v2.png)
+![Data Jobs Dashboard V2](./Project%202/images/Project2_Dashboard_Overview.gif)
  [🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project2)
 
 **Key Power BI Skills Utilized:**
