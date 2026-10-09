@@ -16,7 +16,6 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 
 ![Data Jobs Dashboard V1](./Project%201/Images/Data%20jobs%20Dashboard.gif)
 
- 🌐 **Interactive Report:** [View Reference Version **(Course Author)**](https://lukeb.co/powerbi-project1)
 
 **Key Power BI Skills Utilized:**
 * 🎨 Dashboard Layout & Design
@@ -29,13 +28,13 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 * 🎚️ Interactive Slicers for Filtering
 * ⚪ Buttons & Bookmarks for Page Navigation
 * ➡ Drill-Through Functionality
+
 [➡️ **View Full Project 1 Details**](./Data%20jobs%20V1/README.md)
 
 ### 🟢 Data Jobs Dashboard (V2 - Single-Page Focus)
 
 ![Data Jobs Dashboard V2](./Project%202/images/Project2_Dashboard_Overview.gif)
 
-🌐 **Interactive Report:** [View Reference Version **(Course Author)**](https://lukeb.co/powerbi-project2)
 
 **Key Power BI Skills Utilized:**
 * 🎨 Executive Dark Theme Layout & UX Optimization
