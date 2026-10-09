@@ -1,4 +1,4 @@
-📊 My Power BI Dashboard Portfolio
+## 📊 My Power BI Dashboard Portfolio ##
 
 Welcome to my Power BI analytics portfolio! This repository tracks my journey in data analytics, turning raw 2024 global data job market datasets into actionable, executive-level insights.
 
