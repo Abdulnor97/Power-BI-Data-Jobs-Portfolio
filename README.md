@@ -29,7 +29,7 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 * ⚪ Buttons & Bookmarks for Page Navigation
 * ➡ Drill-Through Functionality
 
-[➡️ **View Full Project 1 Details**]((./Project%201/README.md)
+[➡️ **View Full Project 1 Details**](./Project%201/README.md)
 
 ### 🟢 Data Jobs Dashboard (V2 - Single-Page Focus)
 
