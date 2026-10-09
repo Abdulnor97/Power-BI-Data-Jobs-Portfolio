@@ -50,10 +50,12 @@ The first iteration of the Data Jobs Analysis project focuses on a comprehensive
 
 [➡️ **View Full Project 2 Details**](./Data%20jobs%20V2/README.md)
 
+## About This Portfolio
 
-## **About This Portfolio**
 This portfolio tracks my journey in Power BI, turning raw 2024 global job market data into clear career insights across two dashboard iterations:
 
+- **Version 1.0 (Exploratory):** a multi-page light theme report for exploring job roles, skill popularity and global compensation trends.
+- **Version 2.0 (Executive):** a single-page dark theme dashboard. Using DAX field parameters, users can switch between yearly and hourly pay, and between skill counts and penetration rates (%).
 
 ## 👨‍💻 Author
 
